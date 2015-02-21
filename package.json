@@ -1,0 +1,25 @@
+{
+  "name": "hermonie",
+  "version": "0.0.0",
+  "description": "Will do stuff with browserify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/v0lkan/hermonie.git"
+  },
+  "keywords": [
+    "browserify",
+    "amd",
+    "conversion",
+    "conflict"
+  ],
+  "author": "Volkan Ozcelik <volkan@o2js.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/v0lkan/hermonie/issues"
+  },
+  "homepage": "https://github.com/v0lkan/hermonie"
+}
